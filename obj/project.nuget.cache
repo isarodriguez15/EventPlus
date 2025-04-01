@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bWyQKI+0+mw=",
+  "dgSpecHash": "pnfyByc//p8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\46206573877\\Desktop\\webapi.event+\\webapi.event+.csproj",
+  "projectFilePath": "C:\\Users\\46206573877\\Desktop\\EventPlus\\EventPlus\\webapi.event+.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\46206573877\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\46206573877\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
