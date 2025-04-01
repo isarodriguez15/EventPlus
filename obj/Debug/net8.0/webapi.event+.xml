@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>webapi.event+</name>
+    </assembly>
+    <members>
+        <member name="T:webapi.event_.Migrations.Db_eventplus">
+            <inheritdoc />
+        </member>
+        <member name="M:webapi.event_.Migrations.Db_eventplus.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:webapi.event_.Migrations.Db_eventplus.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:webapi.event_.Migrations.Db_eventplus.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:webapi.event_.Migrations.Db_V2">
+            <inheritdoc />
+        </member>
+        <member name="M:webapi.event_.Migrations.Db_V2.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:webapi.event_.Migrations.Db_V2.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:webapi.event_.Migrations.Db_V2.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
