@@ -365,3 +365,4 @@ C:\Users\46206573877\Desktop\EventPlus\EventPlus\obj\Debug\net8.0\webapi.event+.
 C:\Users\46206573877\Desktop\EventPlus\EventPlus\obj\Debug\net8.0\refint\webapi.event+.dll
 C:\Users\46206573877\Desktop\EventPlus\EventPlus\obj\Debug\net8.0\webapi.event+.xml
 C:\Users\46206573877\Desktop\EventPlus\EventPlus\obj\Debug\net8.0\webapi.event+.pdb
+C:\Users\46206573877\Desktop\webapi.event+\obj\Debug\net8.0\webapi.event+.sourcelink.json

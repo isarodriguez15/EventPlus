@@ -6,9 +6,11 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>webapi.event_</RootNamespace>
 	  <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <UserSecretsId>ca3a70c6-4534-44ef-b543-a9da354836fe</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Azure.AI.ContentSafety" Version="1.0.0" />
     <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.14" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.3" />
